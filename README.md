@@ -14,6 +14,11 @@ The rough roadmap for FL CG is as follows:
  * Version 0.1 : [Requirements for Federated Learning API 0.1](https://w3c.github.io/federated-learning-cg/reports/index-0.1.html)
  * Version 0.4 : [Requirements for Federated Learning API 0.4](https://w3c.github.io/federated-learning-cg/reports/index-0.4.html)
  * Version 1.0 : [Final report - Requirements for Federated Learning API](https://w3c.github.io/federated-learning-cg/reports/index.html)
+
+## Federated Learning API
+ * Version 0.1 : June 2024
+ * Version 0.2 : October 2024
+ * Version 0.3 : December 2024
      
 ## Current implementations for federated learning
 * [TensorFlow Federated(TFF)](https://github.com/tensorflow/federated): 
