@@ -19,7 +19,10 @@ The rough roadmap for FL CG is as follows:
  * Version 0.1 : June 2024
  * Version 0.2 : October 2024
  * Version 0.3 : December 2024
-     
+ * Version 0.5 : June 2025
+ * Version 0.7 : October 2025
+ * Version 1.0 : December 2026
+        
 ## Current implementations for federated learning
 * [TensorFlow Federated(TFF)](https://github.com/tensorflow/federated): 
   * TFF is an open-source framework for machine learning and other computations on decentralized data
