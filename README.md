@@ -16,9 +16,8 @@ The rough roadmap for FL CG is as follows:
  * Version 1.0 : [Final report - Requirements for Federated Learning API](https://w3c.github.io/federated-learning-cg/reports/index.html)
 
 ## Federated Learning API
- * Version 0.1 : June 2024
- * Version 0.2 : October 2024
- * Version 0.3 : December 2024
+ * Version 0.1 : October 2024
+ * Version 0.2 : December 2024
  * Version 0.5 : June 2025
  * Version 0.7 : October 2025
  * Version 1.0 : December 2026
